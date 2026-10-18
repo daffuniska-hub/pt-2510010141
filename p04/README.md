@@ -32,7 +32,9 @@ di modul (Gambar 2 sampai 7); baca gambarnya dulu, baru kodenya.
 Folder `p04` di repository `pt-NPM` berisi `sinilai_v03.cpp` dan  `README.md`. Lihat Modul Pertemuan 4 bagian E.
 
 ## Deklarasi AI
-Tidak menggunakan AI tetapi dibantu teman
+Saya menggunakan AI untuk membantu saya push file git dan mengoreksi flowchart saya dengan mengirim foto permasalahan dengan respon ai mengatakan apa yang seharusnya saya lakukan.
+
+dan saya dibantu teman saya.
 
 Tuliskan AI yang digunakan, prompt, dan umpan balik AI
 
