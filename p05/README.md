@@ -38,4 +38,13 @@ Folder `p05` di repository `pt-NPM` berisi `sinilai_v04.cpp`. Lihat Modul Pertem
 
 ## Deklarasi AI
 
+| AI 1 | |
+|---|---|
+|`Alat Yang dipakai`| Gemini |
+|`Untuk Apa`| Memeriksa apakah ada kesalahan, typo, kesalahan logika didalam kode |
+|`Cara Memeriksanya`| CopyPaste kode kedalam AI dengan Prompt "periksa kode ini dan katakan error, typo, maupun kesalahan logika" |
+|`Umpan Balik AI`| AI menunjuk kesalahan logika dalam kode saya seperti loop yang tidak dapat berhenti atau kesalahan penulisan yang dapat menyebabkan hasil yang diinginkan berbeda |
+
+Saya juga dibantu teman saya untuk memahami beberapa logika dan code yang tidak saya
+
 Tuliskan AI yang digunakan, prompt, dan umpan balik AI
